@@ -1,3 +1,5 @@
 <div class="phx-hero">
   <h2>Hello World, from <%= @messenger %>!</h2>
+  <h2>Test template, <%= @test_param %>!</h2>
+
 </div>
